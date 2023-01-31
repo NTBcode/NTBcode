@@ -12,7 +12,7 @@
  
  <br>
   <div>
-   <img alt="Sowntee" height="360px" Width="280px" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right">
+   <img alt="Sowntee" height="360px" Width="360px" src="113374116.png" align="right">
    
 <h2>👨🏻‍💻 About Me</h2>
    
