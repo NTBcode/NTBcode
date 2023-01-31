@@ -20,13 +20,13 @@
   
 - 🏦 I'm studying at Phuong Son Highschool
    
-- 📝 I like Coding, Designing and Listening to music chill in free time
+- 📝 I like Coding, Playing Game and Listening to music chill in free time
 
 - 🌱 I’m currently **A student** and I'll become a **Engineer** in the future, it's my dream
    
 - 👨‍💻 All of my projects are available at <a href="https://github.com/NTBcode">https://github.com/NTBcode</a>
 
-- 📫 How to reach me : **abinhdz123321@gmail.com** or **facebook.com/ntb.cc**
+- 📫 How to reach me : **abinhdz123321@gmail.com** or **https://facebook.com/ntb.cc**
    
    
   ### 👁️‍🗨️ Visitor count:    <img height="25px" Width="290px" src="https://profile-counter.glitch.me/NTBcode/count.svg">
