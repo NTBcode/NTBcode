@@ -16,11 +16,11 @@
    
 <h2>👨🏻‍💻 About Me</h2>
    
-- 💒 My countryside is Bac Giang, Vietnam and i'm currently living in Bac Giang
+- 💒 My countryside is Bac Giang, Vietnam and i'm currently living in Ha Nam
   
-- 🏦 I'm studying at Phuong Son Highschool
+- 🏦 I'm studying at Hanoi University of Industry
    
-- 📝 I like Coding, Playing Game and Listening to music chill in free time
+- 📝 I like Coding, Playing Game and Listening to music chill in free 
 
 - 🌱 I’m currently **A student** and I'll become a **Engineer** in the future, it's my dream
    
